@@ -12,7 +12,7 @@
             <B><H2><LI>活動時間：2025/02/28~2025/03/02</LI></H2></B>
             <B><H2><LI>活動地點：<a href ="https://www.sunmoonlake.gov.tw/zh-tw" target = "new">南投日月潭</a></LI></H2></B>
             <B><H2><LI>活動內容：團隊挑戰活動、抽獎活動、特色美食體驗等等 (細節活動當天會說明)</LI></H2></B>
-            <B><H2><LI>活動費用：每人2500元 (越多人參加越便宜，詳情請見下方表格)</LI></H2></B>
+            <B><H2><LI>活動費用：每人2500元 (越多人參加越便宜，詳情請見下方表格) </LI></H2></B>
             <table border="1" width="50%" height="10%" style="font-size: 24px;">
                 <tr><td><center>人數</center></td><td><center>價格</center></td></tr>
                 <tr><td><center><10人</center></td><td><center>2500元/人</center></td></tr>
